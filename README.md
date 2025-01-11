@@ -117,4 +117,4 @@ For any issues or feedback, contact [Suresh Yadav](mailto:sureshyadav.info.np@gm
 
 ---
 
-Enjoy your music with **TechVeda**! 📖
+Enjoy **TechVeda**! 📖

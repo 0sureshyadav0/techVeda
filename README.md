@@ -59,11 +59,8 @@ TechVeda is a app that offers guide for various programming languages, helping u
 
 - **Flutter**: The app framework.
 - **Dart**: Programming language.
-- **Audioplayers Package**: For audio playback.
-- **Provider Package**: For state management.
 - **Get Package**: For navigation and snackbars.
-- **Permission Handler**: For handling storage permissions.
-
+- **syncfusion_flutter_pdfviewer** Package: To show pdf file
 ---
 
 ## 📂 Project Structure

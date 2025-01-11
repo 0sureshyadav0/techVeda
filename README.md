@@ -19,9 +19,9 @@ TechVeda is a app that offers guide for various programming languages, helping u
 
 <center>
 <div style="display:flex;gap:20px;">
-<img src="./assets/images/img1.jpg" height = "720px" width="300px">
-<img src="./assets/images/img2.jpg" height = "720px" width="300px">
-<img src="./assets/images/img3.jpg" height = "720px" width="300px">
+<img src="https://github.com/0sureshyadav0/techVeda/blob/master/assets/images/techHome.jpg?raw=true" height = "720px" width="300px">
+<img src="https://github.com/0sureshyadav0/techVeda/blob/master/assets/images/techHome1.jpg?raw=true" height = "720px" width="300px">
+<img src="https://github.com/0sureshyadav0/techVeda/blob/master/assets/images/techContent.jpg?raw=true" height = "720px" width="300px">
 </div>
 
 </center>

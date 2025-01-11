@@ -8,7 +8,7 @@ TechVeda is a app that offers guide for various programming languages, helping u
 
 - **App Development**: Dart, Flutter, Android
 - **Python**: Basics Python, Web Python
-- **Hacking Basic Guid**:Learn Python, Ethical Hacking Roadmap, Kali linux commands
+- **Hacking Basic Guide**:Learn Python, Ethical Hacking Roadmap, Kali linux commands
 - **Database**: MySQL,MongoDB,PostgreSQL and SQLite
 
 ---

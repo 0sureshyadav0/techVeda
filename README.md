@@ -4,7 +4,7 @@ TechVeda is a app that offers guide for various programming languages, helping u
 
 ---
 
-## 🌟 Features
+## 🌟 Learn
 
 - **App Development**: Dart, Flutter, Android
 - **Python**: Basics Python, Web Python

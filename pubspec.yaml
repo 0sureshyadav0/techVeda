@@ -37,6 +37,8 @@ dependencies:
   google_fonts: ^6.2.1
   get: ^4.6.6
   syncfusion_flutter_pdfviewer: ^28.1.36
+  font_awesome_flutter: ^10.8.0
+  whatsapp_unilink: ^2.1.0
 
 dev_dependencies:
   flutter_test:

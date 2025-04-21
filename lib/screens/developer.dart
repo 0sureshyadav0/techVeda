@@ -2,6 +2,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:get/get.dart';
+import 'package:tech_veda/consts/consts.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:whatsapp_unilink/whatsapp_unilink.dart';
 
@@ -27,7 +28,7 @@ class DeveloperContactInfo extends StatelessWidget {
                 color: Colors.white,
               )),
         ),
-        backgroundColor: const Color.fromARGB(255, 3, 25, 153),
+        backgroundColor: darkPurple,
         centerTitle: true,
         title: const Text(
           "Developer",
@@ -43,13 +44,7 @@ class DeveloperContactInfo extends StatelessWidget {
           // Background Image
           Container(
             decoration: const BoxDecoration(
-              color: Colors.black,
-              image: DecorationImage(
-                image: AssetImage(
-                    './assets/images/background.jpeg'), // Add your background image
-                fit: BoxFit.cover,
-                opacity: 0.7,
-              ),
+              color: darkPurple,
             ),
           ),
 
@@ -132,6 +127,29 @@ class DeveloperContactInfo extends StatelessWidget {
                                 ),
                               ),
                               const SizedBox(height: 15),
+                              InkWell(
+                                onTap: () =>
+                                    _launchUrl('https://sureshyadav.info.np'),
+                                child: const Row(
+                                  mainAxisAlignment: MainAxisAlignment.start,
+                                  children: [
+                                    FaIcon(
+                                      FontAwesomeIcons.globe,
+                                      color: Colors.blue,
+                                    ),
+                                    SizedBox(width: 10),
+                                    Text(
+                                      "Portfolio",
+                                      style: TextStyle(
+                                        color: Colors.white,
+                                        decoration: TextDecoration.underline,
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ),
+                              const SizedBox(height: 15),
+
                               InkWell(
                                 onTap: () => _launchUrl(
                                     'mailto:sureshyadav.info.np@gmail.com'),

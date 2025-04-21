@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/home/suresh/Desktop/Flutter WorkSpace/tech_veda/linux"
+  "cmake.sourceDirectory": "/home/suresh/Desktop/Flutter WorkSpace/tech_veda/linux",
+  "java.configuration.updateBuildConfiguration": "interactive"
 }

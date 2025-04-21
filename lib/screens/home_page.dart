@@ -27,23 +27,11 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: darkPurple,
         title: myText(widget.title, color: Colors.white, size: 22.0),
         actions: [
-          PopupMenuButton(
-              color: Colors.deepPurple,
-              iconColor: Colors.white,
-              offset: Offset(0, 50.0),
-              itemBuilder: (context) {
-                return [
-                  PopupMenuItem(
-                    child: Text(
-                      "Developer",
-                      style: TextStyle(color: Colors.white, fontSize: 20.0),
-                    ),
-                    onTap: () => {
-                      Get.to(() => DeveloperContactInfo()),
-                    },
-                  ),
-                ];
-              })
+          IconButton(
+              onPressed: () {
+                Get.to(() => const DeveloperContactInfo());
+              },
+              icon: Image(image: AssetImage('./assets/images/developer.png'))),
         ],
       ),
       // backgroundColor: darkPurple,

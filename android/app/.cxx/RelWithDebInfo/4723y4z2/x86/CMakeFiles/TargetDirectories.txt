@@ -1,0 +1,2 @@
+/home/suresh/Desktop/FlutterWorkSpace/techVeda/android/app/.cxx/RelWithDebInfo/4723y4z2/x86/CMakeFiles/edit_cache.dir
+/home/suresh/Desktop/FlutterWorkSpace/techVeda/android/app/.cxx/RelWithDebInfo/4723y4z2/x86/CMakeFiles/rebuild_cache.dir

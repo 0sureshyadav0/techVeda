@@ -1,4 +1,4 @@
-package com.example.tech_veda
+package com.nxgen.tech_veda
 
 import io.flutter.embedding.android.FlutterActivity
 

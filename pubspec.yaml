@@ -39,6 +39,13 @@ dependencies:
   syncfusion_flutter_pdfviewer: ^28.1.36
   font_awesome_flutter: ^10.8.0
   whatsapp_unilink: ^2.1.0
+  url_launcher: ^6.3.1
+  provider: ^6.1.5
+  package_info_plus: ^8.3.0
+  cloud_firestore: ^5.6.9
+  firebase_messaging: ^15.2.7
+  firebase_core: ^3.14.0
+  firebase_auth: ^5.6.0
 
 dev_dependencies:
   flutter_test:
